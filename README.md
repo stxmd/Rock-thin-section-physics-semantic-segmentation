@@ -8,4 +8,4 @@ Under cross-polarized light microscopy, the optical appearance of anisotropic mi
 
 This distinctive physical property—stable spatial semantics with rotation-dependent optical appearance—offers an important perspective for semantic segmentation of cross-polarized rock thin section images. Building on this property, our study derives and proposes a data augmentation method for cross-polarized thin section images. The method introduces physically meaningful optical variations while preserving mineral categories, spatial boundaries, and morphological structures.
 
-We plan to gradually release the full implementation workflow, experimental protocols, mathematical analysis, visualization materials, and related research resources to support academic communication and reproducibility.
+The full implementation workflow, experimental protocols, mathematical analysis, visualization materials, and related research resources to support academic communication and reproducibility, are going to be released soon.
