@@ -2,7 +2,7 @@
 
 [English](README.md) [中文](README_zh.md)
 
-<video controls src="videos/Rock_thin_section_preview_en.mp4" title="Title"></video>
+![alt text](gifs/Rock_thin_section_preview_en.gif)
 
 Under cross-polarized light microscopy, the optical appearance of anisotropic minerals depends on their orientation relative to the polarizer and analyzer. As the microscope stage rotates, registered cross-polarized images of the same rock thin section retain a stable spatial correspondence across rotation angles: the positions, boundaries, and shapes of mineral grains remain largely unchanged, while transmitted light intensity, interference colors, and extinction states vary periodically with rotation.
 

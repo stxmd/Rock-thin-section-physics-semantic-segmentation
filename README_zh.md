@@ -1,6 +1,6 @@
 ﻿# 1. 项目概述
 
-<video controls src="videos/Rock_thin_section_preview.mp4" title="Title"></video>
+![alt text](gifs/Rock_thin_section_preview_zh.gif)
 
 在正交偏光显微镜下，非等轴晶系矿物的光学表现与其相对于起偏器和检偏器的取向密切相关。随着显微镜载物台旋转，同一岩石薄片中已配准的正交偏光显微图像在不同旋转状态下仍保持稳定的空间对应关系，即矿物颗粒的位置、边界和形态基本不变；与此同时，其透射光强、干涉色和消光状态会随旋转角度发生周期性变化。
 
