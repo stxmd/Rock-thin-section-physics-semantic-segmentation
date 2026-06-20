@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+.venv/
+venv/
+*.log
+*.tmp
+
+# Do not accidentally publish research assets
+data/
+datasets/
+checkpoints/
+weights/
+models/
+runs/
+outputs/
+experiments/
+configs/
+manuscripts/
+paper/
+submission/
+reviews/
+private/
